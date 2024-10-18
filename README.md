@@ -11,7 +11,6 @@ Um script Python simples para gerenciar listas de compras, permitindo adicionar,
 - [Como Usar](#como-usar)
 - [Funcionalidades](#funcionalidades)
 - [Contribuindo](#contribuindo)
-- [Licença](#licença)
 
 ## Pré-requisitos
 
@@ -24,8 +23,8 @@ Um script Python simples para gerenciar listas de compras, permitindo adicionar,
 Clone o repositório para sua máquina local:
 
 ```bash
-git clone https://github.com/seu_usuario/nome_do_repositorio.git
-cd nome_do_repositorio
+git clone https://github.com/bdancost/app_shoppping_py.git
+cd app_shopping_py
 ```
 
 ## Como Usar
